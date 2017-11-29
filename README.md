@@ -8,6 +8,8 @@ I live in the city of ABCD, in the state of XYZ.
 
 Three of my favorite books are:
 
+Here is `some code` in the middle of a sentence.
+adding a line
 - *Sapiens* by Harari
 
 ### Food
