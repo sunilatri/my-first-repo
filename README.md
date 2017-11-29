@@ -1,4 +1,4 @@
-# Sunil Atri
+# Sun A
 
 ### Geography
 
